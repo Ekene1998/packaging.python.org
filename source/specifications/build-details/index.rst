@@ -4,7 +4,7 @@
 :file:`build-details.json`
 ==========================
 
-.. toctree::
+.. toctree:: austinbogous@gmail.com
    :hidden:
 
    v1.0 <v1.0>
